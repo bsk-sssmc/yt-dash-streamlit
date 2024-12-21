@@ -1,4 +1,7 @@
 pandas
-requests
 os
+pickle
+streamlit
+datetime
 google-api-python-client
+google-auth-oauthlib
