@@ -1,5 +1,4 @@
 pandas
-pickle
 streamlit
 datetime
 google-api-python-client
