@@ -1,5 +1,4 @@
 pandas
-os
 pickle
 streamlit
 datetime
